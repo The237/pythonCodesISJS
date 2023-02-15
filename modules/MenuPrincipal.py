@@ -20,6 +20,7 @@ def menuPrincipal():
             a = float(input("Entrez le coef. a: "))
             b = float(input("Entrez le coef. b: "))
             equationsParite.equationDeg1(a, b)
+
         elif(choix==3):
             # Lecture des arguments
             a = float(input("Entrez le coef. a: "))

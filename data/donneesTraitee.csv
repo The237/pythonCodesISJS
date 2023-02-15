@@ -1,0 +1,34 @@
+,NomRegion,NomRegionVoisine,DistCentroide,LongFrontiere
+0,valledaosta,piemonte,85.485421,101.601911
+1,piemonte,lombardia,157.359476,180.442286
+2,piemonte,liguria,107.926646,137.556832
+3,piemonte,emiliaromagna,251.483785,19.335275
+4,liguria,emiliaromagna,186.600484,51.532336
+5,liguria,toscana,214.411475,45.70927
+6,lombardia,trentino,148.32436,113.869328
+7,lombardia,veneto,161.81875,121.864059
+8,lombardia,emiliaromagna,155.647575,161.102075
+9,trentino,veneto,97.092487,166.221942
+10,veneto,friuli,108.97221,137.180213
+11,veneto,emiliaromagna,140.944529,79.344499
+12,emiliaromagna,toscana,120.911933,175.282061
+13,emiliaromagna,marche,212.241787,45.219519
+14,toscana,marche,160.848969,32.46201
+15,toscana,umbria,123.248625,102.761293
+16,toscana,lazio,211.62357,54.216298
+17,marche,umbria,67.017247,137.259026
+18,marche,lazio,156.576474,19.988274
+19,marche,abruzzo,140.572637,56.989569
+20,umbria,lazio,112.017441,146.977052
+21,abruzzo,lazio,94.193405,166.817768
+22,abruzzo,molise,84.24401,81.007847
+23,lazio,campagna,213.682261,28.193336
+24,lazio,molise,155.60513,29.478488
+25,molise,campagna,94.110328,96.163887
+26,molise,apulia,187.085908,49.85679
+27,campagna,apulia,151.093519,69.273151
+28,campagna,basilicata,112.670903,115.151097
+29,apulia,basilicata,70.701681,151.838997
+30,basilicata,calabria,161.36079,76.757007
+31,sicily,pas de voisin,0.0,0.0
+32,sardegna,pas de voisin,0.0,0.0
