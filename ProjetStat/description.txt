@@ -1,0 +1,30 @@
+About this file
+The insurance.csv dataset contains information about individuals' age, gender, BMI, number of children, smoking status, and region of residence, as well as the associated insurance charges
+
+Age: The age of the customer. (Integer)
+Children: The number of children the customer has. (Integer)
+BMI : BMI (Body Mass Index) (float)
+Smoker: Whether or not the customer is a smoker. (Boolean)
+Region: The region the customer lives in. (String)
+Charges: The insurance charges for the customer. (Float)
+
+
+This dataset can be used to predict insurance charges based on the age, sex, and BMI of a customer. The data has been gathered from a variety of sources and contains information such as age, gender, region and bmi values for each customer.
+
+To make use of this dataset you will first need to understand the different variables present in it so you can understand which ones have an impact on predicting insurance charges. Age is expectedly one of the most important variables as younger or older customers may pay less or more respectively for their coverallsure policies. Similarly sex is also influential as traditionally gender roles dictate premiums with men paying more than women for the same coverage on many policies historically speaking. Lastly bmi should also be taken into account when making any predictions regarding insurance costs due to varying factors such as risk factors associated with obesity being taken into consideration by premium pricing decisions made by insurers.
+
+Once having understood how all these elements influence pricing decisions it is then time to explore potential predictive models that could accurately calculate an appropriate amount/estimation based off what you know about a customer's characterisitcs. You may find regression based models most useful here however there are other options out there too so make sure you spend enough time researching before designing your systems architecture entirely around one particular model type.
+
+The data provided should provide all that's required in order to ascertain these correlations between features however further refinements could result from additional customer related features being inputted such as driving history or past claims experience etc but again this information may not have been kept/provided within this dataset!
+
+In conclusion this dataset provides a decent starting point for predicting accurate numerical output using various combinations of characteristic related inputs - have fun creating something amazing!
+
+
+les assurances dico Larousse
+classement des imc selon l'oms
+https://dev.to/rokaandy/logarithmic-transformation-in-linear-regression-models-why-when-3a7c
+
+Discussion section site internet statistics solutions
+
+# utile pour la rédaction du mémoire
+https://www.africmemoire.com/
